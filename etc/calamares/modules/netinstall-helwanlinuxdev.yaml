@@ -1,0 +1,16 @@
+- name: "HelwanLinux Dev"
+  description: "Software for HelwanLinux developers and betatesters"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - discord
+    - firefox
+    - flameshot-git
+    - gitahead-bin    
+    - meld
+    - simplescreenrecorder
+    - sublime-text-4
+    - telegram-desktop
+    - the_platinum_searcher-bin
