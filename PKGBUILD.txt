@@ -1,12 +1,12 @@
-# Maintainer: Erik Dubois <erik.dubois@gmail.com>
-pkgname=hel-calamares-config
+# Maintainer: Helwan Linux <helwanlinux@gmail.com>
+pkgname=calamares-online-installer
 _destname1="/etc"
 pkgver=1.0
 pkgrel=01
-pkgdesc="calamares for Helwan"
+pkgdesc="calamares online for Helwan"
 arch=('any')
 url="https://github.com/helwan-linux"
-license=('GPL3')
+#license=('GPL3')
 makedepends=('git')
 depends=()
 conflicts=()
